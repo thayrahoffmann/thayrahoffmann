@@ -7,10 +7,8 @@
     
 <table>
   <a href="https://github.com/thayrahoffmann">
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="130" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="130" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="130" alt="CSS3">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="130" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/python.png" width="130" alt="Python">
+  <img src="https://img.icons8.com/nolan/2x/mysql.png" width="130" alt="MySQL">
 </table>
 
 <div> 
