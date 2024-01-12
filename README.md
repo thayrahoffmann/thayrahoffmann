@@ -7,6 +7,7 @@
     
 <table>
   <a href="https://github.com/thayrahoffmann">
+  <img src="https://img.icons8.com/color/2x/javascript.png" width="130" alt="JavaScript">
   <img src="https://img.icons8.com/color/2x/python.png" width="130" alt="Python">
   <img src="https://img.icons8.com/nolan/2x/mysql.png" width="130" alt="MySQL">
 </table>
