@@ -2,15 +2,15 @@
 
 <table>
   <a href="https://github.com/thayrahoffmann">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thayrahoffmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=thayrahoffmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
  </table>
     
 <table>
   <a href="https://github.com/thayrahoffmann">
-  <img src="https://img.icons8.com/color/2x/javascript.png" width="130" alt="JavaScript">
-  <img src="https://img.icons8.com/color/2x/oracle.png" width="130" alt="oracle">
-  <img src="https://img.icons8.com/color/2x/python.png" width="130" alt="Python">
-  <img src="https://img.icons8.com/nolan/2x/mysql.png" width="130" alt="MySQL">
+  <img src="https://img.icons8.com/color/2x/javascript.png" width="127" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/oracle.png" width="127" alt="Oracle">
+  <img src="https://img.icons8.com/color/2x/python.png" width="127" alt="Python">
+  <img src="https://img.icons8.com/nolan/2x/mysql.png" width="127" alt="MySQL">
 </table>
 
 <div> 
